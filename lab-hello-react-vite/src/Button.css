@@ -1,0 +1,9 @@
+.button{
+  display: flex;
+  justify-content: flex-start;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  margin: 10px 0px;
+  border-radius: 10px;
+}
